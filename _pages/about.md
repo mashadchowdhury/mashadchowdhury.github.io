@@ -4,18 +4,16 @@ title: About
 permalink: /about/
 ---
 
+---
 >"_Mashad is a self-starter and enthusiastic person. Not only is he trying new activities all the time, but he also manages to become proficient in them in a short span, >Mashad's charismatic personality with his multi-lingual knowledge allows him to adjust to any situation and create an impact. He is always eager to help others and make the >ones around him feel comfortable. His background in Mathematics and programming along with his social skills, I believe, will allow him to excel in any setting easily."_ 
 
 >**Sathvik Radhakrishnan, studied together with Mashad at UBCO.**
-
----
-
 
 ### About me
 
 Hi everyone! Welcome to my page. I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and healthcare industries. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
 
-On this page, I have outlined my technical skills, work experience, and some of my accomplishments.
+On this page, I will outline my technical skills, work experience, some of my accomplishments, as well as other interesting facts about me!
 
 ### Technical Skills
 Languages proficient in: 
@@ -23,17 +21,21 @@ Languages proficient in:
 - Java
 - MATLAB
 - MIPS Assembly
+
 Languages familiar with:
 - R
 - SQL
+
 Data Visualization Software:
 - Tableau
+
 CRM:
 - Salesforce
 
 ### Work Experience
 
 **Data Analyst** at MitoCanada Foundation
+
 06/2020 - 08/2020
 > - Conducted data mining of survey data and oversaw its importing into the database with QA/QC measures.
 > - Identified opportunities for systems integration to improve data quality and efficiency, and successfully
@@ -50,24 +52,28 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 ### Awards
 
 *   **International GCSE High Achiever Award from Pearson Edexcel**
+
 I was awarded the prestigious High Achiever Award by Pearson in recognition of outstanding grades during IGCSE examinations.
 
-### Accompplishments
+### Accomplishments
 
 - **Social Media Co-Ordinator at UBC Computer Science Course Union**
+
 I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
 - **Head Boy at Newton International Academy**
+
 I led a team of 20 student leaders during the academic year 2018-2019 and arranged weekly meetings with the school
 administration to discuss important matters regarding the school.
 - **TED Talk at TEDxYouth@NIA**
+
 I gave a [10-minute talk](https://www.youtube.com/watch?v=7co9Q-PWq38) at a TED conference on the importance of friendships and the role it plays in our everyday lives.
 
 ### Languages
 
 | Language        | Level          |
-|:-------------|:------------------|
+|:----------------|:---------------------|
 | English           | Fluent |
-| French | Advanced  |
+| French          | Advanced  |
 
 ### There's a horizontal rule below this.
 
