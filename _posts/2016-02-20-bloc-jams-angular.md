@@ -8,5 +8,5 @@ tags:
 featured_image: 'img/posts/comingsoon.jpg'
 project_link: ''
 project_link2: ''
-lead_text: ""
+lead_text: "Meanwhile, check out more about me by visiting my 'About' page [here!](https://mashadchowdhury.github.io/about/)"
 ---
