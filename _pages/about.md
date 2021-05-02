@@ -3,6 +3,11 @@ layout: inner
 title: About
 permalink: /about/
 ---
+"_Mashad is a self-starter and enthusiastic person. Not only is he trying new activities all the time, but he also manages to become proficient in them in a short span, Mashad's charismatic personality with his multi-lingual knowledge allows him to adjust to any situation and create an impact. He is always eager to help others and make the ones around him feel comfortable. His background in Mathematics and programming along with his social skills, I believe, will allow him to excel in any setting easily."_ 
+
+**Sathvik Radhakrishnan, studied together with Mashad at UBCO.**
+
+---
 
 ### About me
 
@@ -48,22 +53,22 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 **International GCSE High Achiever Award from Pearson Edexcel**
 
-> I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
+- I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
 
 ### Accomplishments
 
 **Social Media Co-Ordinator at UBC Computer Science Course Union**
 
-> I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
+- I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
 
 **Head Boy at Newton International Academy**
 
-> I led a team of 20 student leaders during the academic year 2018-2019 and arranged weekly meetings with the school
+- I led a team of 20 student leaders during the academic year 2018-2019 and arranged weekly meetings with the school
 administration to discuss important matters regarding the school.
 
 **TED Talk at TEDxYouth@NIA**
 
-> I gave a [10-minute talk](https://www.youtube.com/watch?v=7co9Q-PWq38) at a TED conference on the importance of friendships and the role it plays in our everyday lives.
+- I gave a [10-minute talk](https://www.youtube.com/watch?v=7co9Q-PWq38) at a TED conference on the importance of friendships and the role it plays in our everyday lives.
 
 ### Languages
 
@@ -71,12 +76,6 @@ administration to discuss important matters regarding the school.
 |:----------------|:---------------------|
 | English           | Fluent |
 | French          | Advanced  |
-
-### What other say about me
-
->"_Mashad is a self-starter and enthusiastic person. Not only is he trying new activities all the time, but he also manages to become proficient in them in a short span, >Mashad's charismatic personality with his multi-lingual knowledge allows him to adjust to any situation and create an impact. He is always eager to help others and make the >ones around him feel comfortable. His background in Mathematics and programming along with his social skills, I believe, will allow him to excel in any setting easily."_ 
-
->**Sathvik Radhakrishnan, studied together with Mashad at UBCO.**
 
 ### Here is an unordered list:
 
