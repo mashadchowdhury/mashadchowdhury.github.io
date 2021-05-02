@@ -1,10 +1,10 @@
 ---
 layout: inner
 position: left
-title: 'Website '
+title: 'Website'
 date: 2021-05-02 15:56:00
 categories: web design
-tags: HTML CSS Jekyll
+tags: HTML CSS Jekyll Sass
 featured_image: 'img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'http://github.com/mashadchowdhury/mashadchowdhury.github.io'
 button_icon: 'github'
