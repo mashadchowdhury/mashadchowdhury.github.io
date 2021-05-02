@@ -55,7 +55,7 @@ p {
 a {
   @include transition(color .2s ease-in-out);
   &:hover {
-    color: #FF5B33;
+    color: #ffffff;
     text-decoration: none;
   }
 }
@@ -65,10 +65,10 @@ button.btn, input.btn {
   margin: 2em 0.5em;
   border: solid 1px #d5e0e7;
   border-radius: 4px;
-  color: #2E4453;
+  color: #ffffff;
   font-weight: 600;
   &:hover, &.btn-default:hover {
-    background-color: black;
+    background-color: white;
     border: solid 1px #b0c5d2;
     -moz-box-shadow: 0 1px 0 #b0c5d2;
     -webkit-box-shadow: 0 1px 0 #b0c5d2;
@@ -95,7 +95,7 @@ button.btn, input.btn {
 .section-jump {
   position: relative;
   top: 0;
-  color: #C8D7E1;
+  color: #000000;
   margin: 0 auto;
   display: table;
   @include transition(top .2s ease-in);
@@ -185,16 +185,16 @@ button.btn, input.btn {
     margin-right: 0;
   }
   ::-webkit-input-placeholder {
-    color: #D6D6D6;
+    color: #ffffff;
   }
   :-moz-placeholder {
-    color: #D6D6D6;
+    color: #ffffff;
   }
   ::-moz-placeholder {
-    color: #D6D6D6;
+    color: #ffffff;
   }
   :-ms-input-placeholder {
-    color: #D6D6D6;
+    color: #ffffff;
   }
 }
 
