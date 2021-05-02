@@ -15,6 +15,8 @@ Hi everyone! Welcome to my page. My name is Mashad and I am an experienced Compu
 
 On this page, I will outline my technical skills, work experience, some of my accomplishments, as well as other interesting facts about me!
 
+---
+
 ### Technical Skills
 Languages proficient in: 
 - Python
@@ -31,6 +33,8 @@ Data Visualization Software:
 
 CRM Software:
 - Salesforce
+
+---
 
 ### Work Experience
 
@@ -54,15 +58,21 @@ advocacy campaigns, such as patient registry and mitoCODE (data informatics plat
 > - Learnt about the Psychology of Sales and how it applies to the rapidly-changing world we live in.
 > - Conducted research on the Digital Marketing Industry and then used my CS background to investigate how Digital Marketing could revolutionize the marketing industry.
 
+---
+
 ### Projects
 
 See **Home** page or click [here](https://mashadchowdhury.github.io/).
+
+---
 
 ### Awards
 
 **International GCSE High Achiever Award from Pearson Edexcel**
 
 - I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
+
+---
 
 ### Accomplishments
 
@@ -78,6 +88,8 @@ administration to discuss important matters regarding the school.
 **TED Talk at TEDxYouth@NIA**
 
 - I gave a [10-minute talk](https://www.youtube.com/watch?v=7co9Q-PWq38) at a TED conference on the importance of friendships and the role it plays in our everyday lives.
+
+---
 
 ### Languages
 
