@@ -33,7 +33,7 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #000000;
+  background-color: #e9edf0;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -55,7 +55,7 @@ p {
 a {
   @include transition(color .2s ease-in-out);
   &:hover {
-    color: #ffffff;
+    color: #FF5B33;
     text-decoration: none;
   }
 }
@@ -65,7 +65,7 @@ button.btn, input.btn {
   margin: 2em 0.5em;
   border: solid 1px #d5e0e7;
   border-radius: 4px;
-  color: #ffffff;
+  color: #2E4453;
   font-weight: 600;
   &:hover, &.btn-default:hover {
     background-color: white;
@@ -84,7 +84,7 @@ button.btn, input.btn {
 }
 
 .main {
-  background-color: OldLace;
+  background-color: white;
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {
@@ -95,7 +95,7 @@ button.btn, input.btn {
 .section-jump {
   position: relative;
   top: 0;
-  color: #000000;
+  color: #C8D7E1;
   margin: 0 auto;
   display: table;
   @include transition(top .2s ease-in);
@@ -185,16 +185,16 @@ button.btn, input.btn {
     margin-right: 0;
   }
   ::-webkit-input-placeholder {
-    color: #ffffff;
+    color: #D6D6D6;
   }
   :-moz-placeholder {
-    color: #ffffff;
+    color: #D6D6D6;
   }
   ::-moz-placeholder {
-    color: #ffffff;
+    color: #D6D6D6;
   }
   :-ms-input-placeholder {
-    color: #ffffff;
+    color: #D6D6D6;
   }
 }
 
@@ -293,8 +293,8 @@ button.btn, input.btn {
     .tags, .categories {
       margin: 2em 0;
       span {
-        color: #ffffff;
-        background-color: #000000;
+        color: #9eb1bd;
+        background-color: #ECEFF1;
         padding: 0.5em 1.5em;
         display: inline-block;
         margin-bottom: 0.5em;
