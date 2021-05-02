@@ -83,5 +83,6 @@ administration to discuss important matters regarding the school.
 
 |Languages|
 |:----------------|:---------------------|
+| Bengali           | Native |
 | English           | Fluent |
 | French          | Advanced  |
