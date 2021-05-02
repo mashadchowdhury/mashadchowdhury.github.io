@@ -38,6 +38,15 @@ CRM Software:
 
 ### Work Experience
 
+**Digital Marketing Sales Intern** at MRKT360, Concord, ON
+
+05/2021 - 07/2021
+> - Applied knowledge of Paid Advertising (PPC, Google, Facebook, Instagram, YouTube ads) to boost sales for the company.
+> - Underwent hands-on training to learn about SEO (Search Engine Optimization) and how it can, if used efficiently, improve the quantity and quality of website traffic, and thus attract more potential clients.
+> - Took an active part in the creation of a comprehensive marketing campaign for businesses.
+> - Learnt about the Psychology of Sales and Digital Marketing and how it is revolutionizing our world today.
+
+
 **Data Analyst** at MitoCanada Foundation, Calgary, AB
 
 06/2020 - 08/2020
@@ -49,14 +58,7 @@ find ways to improve customer relationships; any significant observations were r
 > - Carried out research and analysis in support of various projects focused on awareness, education, and
 advocacy campaigns, such as patient registry and mitoCODE (data informatics platform).
 
-**Digital Marketing Sales Intern** at Mrkt360, Concord, ON
 
-05/2021 - 07/2021
-> - Applied knowledge of Paid Advertising (PPC, Google, Facebook, Instagram, Youtube ads) to boost sales for the company.
-> - Underwent hands-on training to learn about SEO (Search Engine Optimization) and how it can be utilized, if used efficiently, to target potential clients and thus, attract more customers.
-> - Took an active part in the creation of a comprehensive marketing campaign for businesses.
-> - Learnt about the Psychology of Sales and how it applies to the rapidly-changing world we live in.
-> - Conducted research on the Digital Marketing Industry and then used my CS background to investigate how Digital Marketing could revolutionize the marketing industry.
 
 ---
 
