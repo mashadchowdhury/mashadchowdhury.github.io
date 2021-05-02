@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'McZombies (game)'
-date: 2021-05-01 15:56:00
+date: 2021-04-29 15:56:00
 categories: game development
 tags: RobloxStudio Lua GameDev
 featured_image: 'img/posts/mczombies-gameplay.JPG'
