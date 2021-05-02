@@ -8,8 +8,8 @@ permalink: /about/
 **Sathvik Radhakrishnan, studied together with Mashad at UBCO.**
 
 ---
-
-### About me
+---
+# About me
 
 Hi everyone! Welcome to my page. My name is Mashad and I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and healthcare industries. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
 
