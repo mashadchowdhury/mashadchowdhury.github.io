@@ -12,5 +12,5 @@ button_icon: 'gamepad'
 project_link2: 'https://www.youtube.com/watch?v=Ky9EufhJuhg'
 button_text2: 'YouTube Link'
 button_icon2: 'youtube'
-lead_text: 'Developed and designed a game using Roblox Studio and the programming language Lua'
+lead_text: "Developed and designed a game using Roblox Studio and the programming language Lua"
 ---
