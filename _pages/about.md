@@ -49,10 +49,10 @@ advocacy campaigns, such as patient registry and mitoCODE (data informatics plat
 
 05/2021 - 07/2021
 > - Applied knowledge of Paid Advertising (PPC, Google, Facebook, Instagram, Youtube ads) to boost sales for the company.
-> - Acqcuired  knowledge of SEO (Search Engine Optimization) to efficiently target potential clients and thus, attract more customers.
-> - Experienced the creation of a comprehensive marketing campaign for businesses.
+> - Underwent hands-on training to learn about SEO (Search Engine Optimization) and how it can be utilized, if used efficiently, to target potential clients and thus, attract more customers.
+> - Took an active part in the creation of a comprehensive marketing campaign for businesses.
 > - Learnt about the Psychology of Sales and how it applies to the rapidly-changing world we live in.
-> - Conducted research on the Digital Marketing Industry and used my CS background to understand the importance of this industry.
+> - Conducted research on the Digital Marketing Industry and then used my CS background to investigate how Digital Marketing could revolutionize the marketing industry.
 ### Projects
 
 See **Home** page or click [here](https://mashadchowdhury.github.io/).
