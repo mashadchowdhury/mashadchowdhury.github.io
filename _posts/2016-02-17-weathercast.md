@@ -9,5 +9,5 @@ featured_image: 'img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'http://github.com/mashadchowdhury/mashadchowdhury.github.io'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'Designed the website that you're looking at right now using Jekyll and Github'
+lead_text: "Designed the website that you're looking at right now using Jekyll and Github"
 ---
