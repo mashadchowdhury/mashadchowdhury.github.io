@@ -81,7 +81,7 @@ administration to discuss important matters regarding the school.
 
 ### Languages
 
-| Languages----        | ----Level----          |
+|Languages|
 |:----------------|:---------------------|
 | English           | Fluent |
 | French          | Advanced  |
