@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Cape Town Takeover'
-date: 2021-04-30 21:15:00
+date: 2021-04-30 21:30:00
 categories: data analytics
 tags: Python Tableau SQL
 featured_image: 'img/posts/CapeTownAnalysis.JPG'
