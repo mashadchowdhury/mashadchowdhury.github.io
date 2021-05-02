@@ -5,7 +5,7 @@ title: 'More on the way...'
 date: 2021-05-02 14:15:00
 categories: development
 tags: 
-featured_image: 'img/posts/comingsoon.jpg'
+featured_image: 'img/posts/comingsoon.jfif'
 project_link: ''
 button_icon: ''
 button_text: ''
