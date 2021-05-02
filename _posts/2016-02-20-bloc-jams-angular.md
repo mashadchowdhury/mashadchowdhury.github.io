@@ -7,7 +7,8 @@ categories: development
 tags: 
 featured_image: 'img/posts/comingsoon.jpg'
 project_link: 'https://mashadchowdhury.github.io/about/'
-button_icon
+button_icon: 'heart'
+button_text: 'About Me'
 project_link2: ''
-lead_text: "Meanwhile, check out more about me by visiting my 'About' page [here!](https://mashadchowdhury.github.io/about/)"
+lead_text: "Meanwhile, check out more about me by visiting my 'About' page. Just press on the link below!"
 ---
