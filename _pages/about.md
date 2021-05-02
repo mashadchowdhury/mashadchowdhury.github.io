@@ -3,11 +3,12 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+## Mashad Chowdhury
+### About me
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](/index.html).
+_Mashad is a self-starter and enthusiastic person. Not only is he trying new activities all the time, but he also manages to become proficient in them in a short span, Mashad's charismatic personality with his multi-lingual knowledge allows him to adjust to any situation and create an impact. He is always eager to help others and make the ones around him feel comfortable. His background in Mathematics and programming along with his social skills, I believe, will allow him to excel in any setting easily._ - Sathvik Radhakrishnan, studied together with Mashad at UBCO.
+---
+Hi everyone! Welcome to my page. I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and healthcare industries. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
 
 There should be whitespace between paragraphs.
 
@@ -203,3 +204,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
 {% endhighlight %}
+[Link to another page](/index.html).
