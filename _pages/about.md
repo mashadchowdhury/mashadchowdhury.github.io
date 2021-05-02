@@ -34,7 +34,7 @@ CRM Software:
 
 ### Work Experience
 
-**Data Analyst** at MitoCanada Foundation
+**Data Analyst** at MitoCanada Foundation, Calgary, AB
 
 06/2020 - 08/2020
 > - Conducted data mining of survey data and oversaw its importing into the database with QA/QC measures.
@@ -45,6 +45,14 @@ find ways to improve customer relationships; any significant observations were r
 > - Carried out research and analysis in support of various projects focused on awareness, education, and
 advocacy campaigns, such as patient registry and mitoCODE (data informatics platform).
 
+**Digital Marketing Sales Intern** at Mrkt360, Concord, ON
+
+05/2021 - 07/2021
+> - Applied knowledge of Paid Advertising (PPC, Google, Facebook, Instagram, Youtube ads) to boost sales for the company.
+> - Acqcuired  knowledge of SEO (Search Engine Optimization) to efficiently target potential clients and thus, attract more customers.
+> - Experienced the creation of a comprehensive marketing campaign for businesses.
+> - Learnt about the Psychology of Sales and how it applies to the rapidly-changing world we live in.
+> - Conducted research on the Digital Marketing Industry and used my CS background to understand the importance of this industry.
 ### Projects
 
 See **Home** page or click [here](https://mashadchowdhury.github.io/).
