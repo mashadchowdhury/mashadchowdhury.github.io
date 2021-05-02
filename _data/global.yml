@@ -1,6 +1,6 @@
 # Site Settings
 title: "Mashad Chowdhury"
-description: "3rd year CS and Math student studying at UBC Okanagan"
+description: "3rd year CS and Math student studying at UBC Okanagan."
 url: 'https://mashadchowdhury.github.io/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2021 Mashad Chowdhury'
