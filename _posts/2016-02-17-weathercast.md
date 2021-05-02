@@ -5,7 +5,7 @@ title: 'Website Design'
 date: 2021-05-02 15:56:00
 categories: web design
 tags: HTML CSS Jekyll Sass
-featured_image: 'img/posts/comingsoon.jfif'
+featured_image: 'img/posts/website.jpg'
 project_link: 'http://github.com/mashadchowdhury/mashadchowdhury.github.io'
 button_icon: 'github'
 button_text: 'Visit Project'
