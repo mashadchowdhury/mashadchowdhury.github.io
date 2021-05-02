@@ -53,6 +53,7 @@ advocacy campaigns, such as patient registry and mitoCODE (data informatics plat
 > - Took an active part in the creation of a comprehensive marketing campaign for businesses.
 > - Learnt about the Psychology of Sales and how it applies to the rapidly-changing world we live in.
 > - Conducted research on the Digital Marketing Industry and then used my CS background to investigate how Digital Marketing could revolutionize the marketing industry.
+
 ### Projects
 
 See **Home** page or click [here](https://mashadchowdhury.github.io/).
