@@ -1,8 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'McZombies - The Zombies of McDonald's'
-date: 2016-02-20 15:56:00
+title: 'Rescue Themes'
 date: 2016-02-20 15:56:00
 categories: development design
 tags: WordPress PHP Sass
