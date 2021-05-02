@@ -1,10 +1,10 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
-date: 2016-02-20 15:56:00
-categories: development
-tags: JavaScript AngularJS API Sass
+title: 'Website'
+date: 2021-05-02 15:56:00
+categories: web design
+tags: HTML CSS Jekyll Sass
 featured_image: 'img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'http://github.com/jamigibbs/weathercast'
 button_icon: 'github'
