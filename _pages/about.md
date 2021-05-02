@@ -4,14 +4,9 @@ title: About
 permalink: /about/
 ---
 
----
->"_Mashad is a self-starter and enthusiastic person. Not only is he trying new activities all the time, but he also manages to become proficient in them in a short span, >Mashad's charismatic personality with his multi-lingual knowledge allows him to adjust to any situation and create an impact. He is always eager to help others and make the >ones around him feel comfortable. His background in Mathematics and programming along with his social skills, I believe, will allow him to excel in any setting easily."_ 
-
->**Sathvik Radhakrishnan, studied together with Mashad at UBCO.**
-
 ### About me
 
-Hi everyone! Welcome to my page. I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and healthcare industries. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
+Hi everyone! Welcome to my page. My name is Mashad and I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and healthcare industries. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
 
 On this page, I will outline my technical skills, work experience, some of my accomplishments, as well as other interesting facts about me!
 
@@ -29,7 +24,7 @@ Languages familiar with:
 Data Visualization Software:
 - Tableau
 
-CRM:
+CRM Software:
 - Salesforce
 
 ### Work Experience
@@ -51,33 +46,37 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 ### Awards
 
-*   **International GCSE High Achiever Award from Pearson Edexcel**
+**International GCSE High Achiever Award from Pearson Edexcel**
 
-I was awarded the prestigious High Achiever Award by Pearson in recognition of outstanding grades during IGCSE examinations.
+> I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
 
 ### Accomplishments
 
-- **Social Media Co-Ordinator at UBC Computer Science Course Union**
+**Social Media Co-Ordinator at UBC Computer Science Course Union**
 
-I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
-- **Head Boy at Newton International Academy**
+> I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
 
-I led a team of 20 student leaders during the academic year 2018-2019 and arranged weekly meetings with the school
+**Head Boy at Newton International Academy**
+
+> I led a team of 20 student leaders during the academic year 2018-2019 and arranged weekly meetings with the school
 administration to discuss important matters regarding the school.
-- **TED Talk at TEDxYouth@NIA**
 
-I gave a [10-minute talk](https://www.youtube.com/watch?v=7co9Q-PWq38) at a TED conference on the importance of friendships and the role it plays in our everyday lives.
+**TED Talk at TEDxYouth@NIA**
+
+> I gave a [10-minute talk](https://www.youtube.com/watch?v=7co9Q-PWq38) at a TED conference on the importance of friendships and the role it plays in our everyday lives.
 
 ### Languages
 
-| Language        | Level          |
+| --Languages--        | --Level--          |
 |:----------------|:---------------------|
 | English           | Fluent |
 | French          | Advanced  |
 
-### There's a horizontal rule below this.
+### What other say about me
 
----
+>"_Mashad is a self-starter and enthusiastic person. Not only is he trying new activities all the time, but he also manages to become proficient in them in a short span, >Mashad's charismatic personality with his multi-lingual knowledge allows him to adjust to any situation and create an impact. He is always eager to help others and make the >ones around him feel comfortable. His background in Mathematics and programming along with his social skills, I believe, will allow him to excel in any setting easily."_ 
+
+>**Sathvik Radhakrishnan, studied together with Mashad at UBCO.**
 
 ### Here is an unordered list:
 
