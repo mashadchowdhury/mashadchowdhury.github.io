@@ -3,9 +3,8 @@ layout: inner
 title: About
 permalink: /about/
 output:
-	html_document:
-		css: custom.css
-		
+  html_document:
+    css: custom.css
 ---
 
 ## Mashad Chowdhury
