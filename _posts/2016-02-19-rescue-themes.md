@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'McZombies - The Zombies of McDonalds'
+title: 'McZombies (game)'
 date: 2021-05-01 15:56:00
 categories: game development
 tags: RobloxStudio Lua GameDev
