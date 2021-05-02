@@ -7,7 +7,6 @@ categories: development
 tags: 
 featured_image: 'img/posts/comingsoon.jfif'
 project_link: ''
-button_icon: ''
-button_text: ''
+project_link2: ''
 lead_text: ""
 ---
