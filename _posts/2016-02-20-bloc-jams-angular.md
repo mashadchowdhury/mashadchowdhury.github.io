@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: 'More on the way...'
-date: 2021-05-02 14:15:00
+date: 2021-04-02 14:15:00
 categories: development
 tags: 
 featured_image: 'img/posts/comingsoon.jfif'
