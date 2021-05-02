@@ -1,13 +1,15 @@
 ---
 layout: inner
 position: right
-title: 'Rescue Themes'
-date: 2016-02-20 15:56:00
-categories: development design
-tags: WordPress PHP Sass
+title: 'McZombies - The Zombies of McDonald's'
+date: 2021-05-01 15:56:00
+categories: game development
+tags: 'Roblox Studio' Lua Game-Development
 featured_image: 'img/posts/03_rescue-themes-1130x864-2x.png'
-project_link: 'https://rescuethemes'
-button_text: 'Visit Rescue Themes'
-button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+project_link: 'https://www.roblox.com/games/6749610863/McZombies-The-Zombies-of-McDonalds?refPageId=8882fe61-1e6b-4eaa-8889-6c652648caa9'
+button_text: 'Visit Game'
+button_icon: 'gamepad'
+project_link2: 'https://www.youtube.com/watch?v=Ky9EufhJuhg'
+button_text2: 'YouTube Link'
+lead_text: 'Developed and designed a game using Roblox Studio and the programming language Lua'
 ---
