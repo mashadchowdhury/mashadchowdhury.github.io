@@ -2,71 +2,72 @@
 layout: inner
 title: About
 permalink: /about/
-output:
-  html_document:
-    css: custom.css
 ---
-
-## Mashad Chowdhury
 
 >"_Mashad is a self-starter and enthusiastic person. Not only is he trying new activities all the time, but he also manages to become proficient in them in a short span, >Mashad's charismatic personality with his multi-lingual knowledge allows him to adjust to any situation and create an impact. He is always eager to help others and make the >ones around him feel comfortable. His background in Mathematics and programming along with his social skills, I believe, will allow him to excel in any setting easily."_ 
 
 >**Sathvik Radhakrishnan, studied together with Mashad at UBCO.**
+
+---
 
 
 ### About me
 
 Hi everyone! Welcome to my page. I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and healthcare industries. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
 
-There should be whitespace between paragraphs.
+On this page, I have outlined my technical skills, work experience, and some of my accomplishments.
 
-# Header 1
+### Technical Skills
+Languages proficient in: 
+- Python
+- Java
+- MATLAB
+- MIPS Assembly
+Languages familiar with:
+- R
+- SQL
+Data Visualization Software:
+- Tableau
+CRM:
+- Salesforce
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Work Experience
 
-## Header 2
+**Data Analyst** at MitoCanada Foundation
+06/2020 - 08/2020
+> - Conducted data mining of survey data and oversaw its importing into the database with QA/QC measures.
+> - Identified opportunities for systems integration to improve data quality and efficiency, and successfully
+integrated and automated over 5000 donation listings on GoFundMe with Salesforce.
+> - Developed dashboards to establish trends and find patterns using key metrics, which were then analyzed to
+find ways to improve customer relationships; any significant observations were reported to the CEO.
+> - Carried out research and analysis in support of various projects focused on awareness, education, and
+advocacy campaigns, such as patient registry and mitoCODE (data informatics platform).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Projects
 
-### Header 3
+See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
+### Awards
 
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+*   **International GCSE High Achiever Award from Pearson Edexcel**
+I was awarded the prestigious High Achiever Award by Pearson in recognition of outstanding grades during IGCSE examinations.
 
-#### Header 4
+### Accompplishments
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- **Social Media Co-Ordinator at UBC Computer Science Course Union**
+I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
+- **Head Boy at Newton International Academy**
+I led a team of 20 student leaders during the academic year 2018-2019 and arranged weekly meetings with the school
+administration to discuss important matters regarding the school.
+- **TED Talk at TEDxYouth@NIA**
+I gave a [10-minute talk](https://www.youtube.com/watch?v=7co9Q-PWq38) at a TED conference on the importance of friendships and the role it plays in our everyday lives.
 
-##### Header 5
+### Languages
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Language        | Level          |
+|:-------------|:------------------|
+| English           | Fluent |
+| French | Advanced  |
 
 ### There's a horizontal rule below this.
 
