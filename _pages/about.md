@@ -9,15 +9,15 @@ permalink: /about/
 
 ---
 ---
-# About me
+## About me
 
-Hi everyone! Welcome to my page. My name is Mashad and I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and healthcare industries. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
+Hi! Welcome to my page. My name is Mashad and I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and the healthcare industry. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
 
 On this page, I will outline my technical skills, work experience, some of my accomplishments, as well as other interesting facts about me!
 
 ---
 
-### Technical Skills
+## Technical Skills
 Languages proficient in: 
 - Python
 - Java
@@ -36,7 +36,7 @@ CRM Software:
 
 ---
 
-### Work Experience
+## Work Experience
 
 **Digital Marketing Sales Intern** at MRKT360, Concord, ON
 
@@ -62,13 +62,13 @@ advocacy campaigns, such as patient registry and mitoCODE (data informatics plat
 
 ---
 
-### Projects
+## Projects
 
 See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 ---
 
-### Awards
+## Awards
 
 **International GCSE High Achiever Award from Pearson Edexcel**
 
@@ -76,7 +76,7 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 ---
 
-### Accomplishments
+## Accomplishments
 
 **Social Media Co-Ordinator at UBC Computer Science Course Union**
 
@@ -93,7 +93,7 @@ administration to discuss important matters regarding the school.
 
 ---
 
-### Languages
+## Languages
 
 |Languages|
 |:----------------|:---------------------|
