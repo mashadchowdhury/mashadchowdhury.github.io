@@ -226,7 +226,7 @@ button.btn, input.btn {
     top: 1.35em;
     width: 3em;
     height: 3px;
-    background-color: #ECEFF1;
+    background-color: #b8860b;
     left: 50%;
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
@@ -277,7 +277,7 @@ button.btn, input.btn {
         left: 0;
         width: 3em;
         height: 3px;
-        background-color: #ECEFF1;
+        background-color: #de1738;
       }
     }
     .excerpt {
@@ -315,12 +315,12 @@ button.btn, input.btn {
 .site-footer {
   font-size: 14px;
   margin-top: 2em;
-  border-top: 1px solid #efefef;
+  border-top: 1px solid #b8860b;
   padding: 1em 0;
   p {
     font-size: 12px;
     font-weight: 600;
-    color: #9eb1bd;
+    color: #ffffff;
     margin: 0;
     padding: 10px 0;
     @include bp-xsmall {
