@@ -11,34 +11,40 @@ permalink: /about/
 ---
 ## About me
 
-Hi! Welcome to my page. My name is Mashad and I am an experienced Computer Science and Math student with a demonstrated history of working in computer software and the healthcare industry. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams). 
+Hi! Welcome to my page. My name is Mashad and I am a 3rd year **CS** & **Math** student studying at UBCO. Some of my passions and hobbies include **learning languages**, **playing soccer**, **bow hunting**, and (bit of an unusual one!) **learning national anthems** (I know over 30 by heart). In my free time, I practice archery or play soccer with my buddies (if the weather permits!). 
 
-On this page, I will outline my technical skills, work experience, some of my accomplishments, as well as other interesting facts about me!
+If you'd like to learn more about me and see more of my work, you can check my YouTube Channel out where I upload all sorts of stuff like games I develop, projects I take part in, and even some recitations of the Qur'an I attempted with translations.
+
+Careerwise, I am currently looking for internships where I can apply my skills but learn new skills at the same time. I see every internship as a learning oppurtunity that I can use to improve myself and acquire new skills, where I can apply my knowledge while also learning as I do. I believe the best and most efficient way to learn and improve one's own skills is to have hands-on experience working at an internship, because after all, there is only so much we can learn from our courses at university. That is why I am actively seeking internships which have the right environment for me to prosper and grow.
+
+At the workplace, I am an experienced individual with a demonstrated history of working in computer software and the healthcare industry. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams).
+
+On this page, I will outline my technical skills, work experience, and some of my accomplishments. Any questions can be addressed to my UBC email on my Resume, or my personal email: mashad.n.chowdhury@gmail.com
 
 ---
 
 ## Technical Skills
 Languages proficient in: 
-- Python
-- Java
-- MATLAB
-- MIPS Assembly
+- **Python**
+- **Java**
+- **MATLAB**
+- **MIPS Assembly**
 
 Languages familiar with:
-- R
-- SQL
+- **R**
+- **SQL**
 
 Data Visualization Software:
-- Tableau
+- **Tableau
 
 CRM Software:
-- Salesforce
+- **Salesforce**
 
 ---
 
 ## Work Experience
 
-**Digital Marketing Sales Intern** at MRKT360, Concord, ON
+**Digital Marketing Sales Intern** at MRKT360, Vaughan, ON
 
 05/2021 - 07/2021
 > - Applied knowledge of Paid Advertising (PPC, Google, Facebook, Instagram, YouTube ads) to boost sales for the company.
@@ -97,6 +103,9 @@ administration to discuss important matters regarding the school.
 
 |Languages|
 |:----------------|:---------------------|
+| _English_           | Fluent |
+| _French_          | Advanced  |
 | Bengali           | Native |
-| English           | Fluent |
-| French          | Advanced  |
+| Turkish          | Intermediate  |
+| Persian          | Beginner  |
+| Spanish          | Beginner  |
