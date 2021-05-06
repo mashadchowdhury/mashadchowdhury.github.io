@@ -35,7 +35,7 @@ Languages familiar with:
 - **SQL**
 
 Data Visualization Software:
-- **Tableau
+- **Tableau**
 
 CRM Software:
 - **Salesforce**
@@ -103,9 +103,6 @@ administration to discuss important matters regarding the school.
 
 |Languages|
 |:----------------|:---------------------|
-| _English_           | Fluent |
-| _French_          | Advanced  |
+| **English**           | Fluent |
+| **French**         | Advanced  |
 | Bengali           | Native |
-| Turkish          | Intermediate  |
-| Persian          | Beginner  |
-| Spanish          | Beginner  |
