@@ -13,7 +13,7 @@ permalink: /about/
 
 Hi! Welcome to my page. My name is Mashad and I am a 3rd year **CS** & **Math** student studying at UBCO. Some of my passions and hobbies include **learning languages**, **playing soccer**, **bow hunting**, and (bit of an unusual one!) **learning national anthems** (I know over 30 by heart). In my free time, I practice archery or play soccer with my buddies (if the weather permits!). 
 
-If you'd like to learn more about me and see more of my work, you can check my YouTube Channel out where I upload all sorts of stuff like games I develop, projects I take part in, and even some recitations of the Qur'an I attempted with translations.
+If you'd like to learn more about me and see more of my work, you can check out my [YouTube channel](https://www.youtube.com/channel/UC_imT3eyv2QNsfHjitBHcew) where I upload all sorts of stuff like games I develop, projects I take part in, and even some recitations of the Qur'an I attempted with translations.
 
 Careerwise, I am currently looking for internships where I can apply my skills but learn new skills at the same time. I see every internship as a learning oppurtunity that I can use to improve myself and acquire new skills, where I can apply my knowledge while also learning as I do. I believe the best and most efficient way to learn and improve one's own skills is to have hands-on experience working at an internship, because after all, there is only so much we can learn from our courses at university. That is why I am actively seeking internships which have the right environment for me to prosper and grow.
 
