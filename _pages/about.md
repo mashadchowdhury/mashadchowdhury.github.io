@@ -24,6 +24,7 @@ If you'd like to learn more about me and see more of my work, you can check out 
 On this page, I will outline my technical skills, work experience, and some of my accomplishments. Any questions can be addressed to my UBC email on my Resume, or my personal email: mashad.n.chowdhury@gmail.com
 
 ---
+---
 
 ## Technical Skills
 **Languages proficient in:**
@@ -42,6 +43,7 @@ On this page, I will outline my technical skills, work experience, and some of m
 **CRM (Customer Relationship Management) Software:**
 - **Salesforce**
 
+---
 ---
 
 ## Work Experience
@@ -68,6 +70,7 @@ advocacy campaigns, such as patient registry and mitoCODE (data informatics plat
 
 
 ---
+---
 
 ## Accomplishments
 
@@ -86,10 +89,14 @@ administration to discuss important matters regarding the school.
 
 ---
 
+---
+
+
 ## Projects
 
 See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
+---
 ---
 
 ## Awards
@@ -98,6 +105,7 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 - I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
 
+---
 ---
 
 ## Languages
