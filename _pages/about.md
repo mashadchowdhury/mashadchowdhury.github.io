@@ -17,7 +17,7 @@ Hi! Welcome to my page. My name is Mashad and I am a 3rd year **CS** & **Math** 
 
 At the workplace, I am an experienced individual with a demonstrated history of working in computer software and the healthcare industry. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams).
 
-If you'd like to learn more about me and see more of my work, you can check out my [**YouTube channel**](https://www.youtube.com/channel/UC_imT3eyv2QNsfHjitBHcew) where I upload all sorts of stuff like games I develop, projects I take part in, and even some recitations of the **Qur'an** I attempted with translations.
+If you'd like to learn more about me and see more of my work, you can check out my [**YouTube channel**](https://www.youtube.com/channel/UC_imT3eyv2QNsfHjitBHcew) where I upload all sorts of stuff like **games** I develop, **projects** I take part in, and even some recitations of the **Qur'an** I attempted with translations.
 
 ---
 
@@ -102,10 +102,6 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 ## Languages
 
-||
-|:----------------|:---------------------|
-| English       | Fluent |
-|||
-| French         | Advanced  |
-|||
-| Bengali           | Native |
+English
+
+French
