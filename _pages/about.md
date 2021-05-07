@@ -9,6 +9,9 @@ permalink: /about/
 
 ---
 ---
+---
+---
+
 ## About me
 
 **Hi!** Welcome to my page. My name is Mashad and I am a 3rd year **CS** & **Math** student studying at UBCO. Some of my passions and hobbies include learning languages, playing soccer, bow hunting, and (bit of an unusual one!) learning national anthems (I know over 30 by heart). In my free time, I practice archery or play soccer with my buddies (if the weather permits!). 
@@ -99,7 +102,7 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 - I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
 
-**Qatar Secondary Schools Chess Championship (tied ninth place out of 117 contestants)**
+**Qatar Secondary Schools Chess Championship (9th/117)**
 - I came ninth place at the Qatar Chess Championship, and was thus awarded a trophy and a chess board as an acknowledgement for my outstanding performance. The results can be viewed [here](http://chess-results.com/tnr220557.aspx?lan=18).
 
 ---
