@@ -44,7 +44,7 @@ permalink: /about/
 **Digital Marketing Sales Intern** at MRKT360, Vaughan, ON
 
 05/2021 - 07/2021
-> - Applied knowledge of Paid Advertising (PPC, Google, Facebook, Instagram, YouTube ads) to boost sales for the company.
+> - Applied knowledge of Paid Advertising (PPC, Google, Facebook, Instagram, YouTube ads) to offer solutions to clients.
 > - Underwent hands-on training to learn about SEO (Search Engine Optimization) and how it can, if used efficiently, improve the quantity and quality of website traffic, and thus attract more potential clients.
 > - Took an active part in the creation of a comprehensive marketing campaign for businesses.
 > - Learnt about the Psychology of Sales and Digital Marketing and how it is revolutionizing our world today.
