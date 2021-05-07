@@ -395,15 +395,15 @@
 
 // Default navbar
 .navbar-default {
-  background-color: darkgoldenrod;
+  background-color: black;
   border-color: $navbar-default-border;
 
   .navbar-brand {
-    color: $navbar-default-brand-color;
+    color: white;
     &:hover,
     &:focus {
       color: white;
-      background-color: $navbar-default-brand-hover-bg;
+      background-color: black;
     }
   }
 
@@ -463,7 +463,7 @@
       &:hover,
       &:focus {
         background-color: $navbar-default-link-active-bg;
-        color: $navbar-default-link-active-color;
+        color: white;
       }
     }
 
