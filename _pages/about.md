@@ -68,7 +68,7 @@ advocacy campaigns, such as patient registry and mitoCODE (data informatics plat
 
 ## Accomplishments
 ---
-**Social Media Co-Ordinator at UBC Computer Science Course Union**
+**Social Media Co-Ordinator at UBC Computer Science Course Union (CSCU)**
 
 - I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
 
@@ -101,6 +101,7 @@ See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 **Qatar Secondary Schools Chess Championship (tied ninth place out of 117 contestants)**
 - I came ninth place at the Qatar Chess Championship, and was thus awarded a trophy and a chess board as an acknowledgement for my outstanding performance. The results can be viewed [here](http://chess-results.com/tnr220557.aspx?lan=18).
+
 ---
 ---
 
