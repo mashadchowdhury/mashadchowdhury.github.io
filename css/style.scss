@@ -90,13 +90,13 @@ button.btn, input.btn {
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {
-    padding: -0.5em;
+    padding: -2em;
   }
 }
 
 .section-jump {
   position: relative;
-  top: -250px;
+  top: 0;
   color: #008b8b;
   margin: 0 auto;
   display: table;
