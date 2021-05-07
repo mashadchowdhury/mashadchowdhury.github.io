@@ -36,11 +36,12 @@ permalink: /about/
 **Data Visualization Software:** Tableau
 
 **CRM (Customer Relationship Management) Software:** Salesforce
+
 ---
 ---
 
 ## Work Experience
-
+---
 **Digital Marketing Sales Intern** at MRKT360, Vaughan, ON
 
 05/2021 - 07/2021
@@ -66,7 +67,7 @@ advocacy campaigns, such as patient registry and mitoCODE (data informatics plat
 ---
 
 ## Accomplishments
-
+---
 **Social Media Co-Ordinator at UBC Computer Science Course Union**
 
 - I was elected by CS students at UBCO after a 3-week campaign period, to represent them as their Social Media Co-Ordinator.
@@ -86,26 +87,28 @@ administration to discuss important matters regarding the school.
 
 
 ## Projects
-
+---
 See **Home** page or click [here](https://mashadchowdhury.github.io/).
 
 ---
 ---
 
 ## Awards
-
+---
 **International GCSE High Achiever Award from Pearson Edexcel**
 
 - I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
 
+**Qatar Secondary Schools Chess Championship (tied ninth place out of 117 contestants)**
+- I came ninth place at the Qatar Chess Championship, and was thus awarded a trophy and a chess board as an acknowledgement for my outstanding performance. The results can be viewed [here](http://chess-results.com/tnr220557.aspx?lan=18).
 ---
 ---
 
 ## Languages
+---
+Bengali (Native)
 
 English (Fluent)
-
-Bengali (Native)
 
 French (Fluent)
 
