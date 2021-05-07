@@ -405,9 +405,6 @@
       color: #ffffff;
       background-color: $navbar-default-brand-hover-bg;
     }
-    .navbar-text {
-    color: #ffffff;
-    }
   }
 
   .navbar-text {
@@ -507,17 +504,17 @@
   // Add a class to ensure links outside the navbar nav are colored correctly.
 
   .navbar-link {
-    color: $navbar-default-link-color;
+    color: #ffffff;
     &:hover {
-      color: $navbar-default-link-hover-color;
+      color: #ffffff;
     }
   }
 
   .btn-link {
-    color: $navbar-default-link-color;
+    color: #ffffff;
     &:hover,
     &:focus {
-      color: $navbar-default-link-hover-color;
+      color: #ffffff;
     }
     &[disabled],
     fieldset[disabled] & {
