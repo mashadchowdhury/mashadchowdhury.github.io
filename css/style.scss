@@ -33,7 +33,7 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #008b8b;
+  background-color: #dc143c;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -86,7 +86,7 @@ button.btn, input.btn {
 }
 
 .main {
-  background-color: ghostwhite;
+  background-color: white;
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {
