@@ -97,7 +97,7 @@ button.btn, input.btn {
 .section-jump {
   position: relative;
   top: 0;
-  color: #b0c5d2;
+  color: #008b8b;
   margin: 0 auto;
   display: table;
   @include transition(top .2s ease-in);
@@ -133,7 +133,7 @@ button.btn, input.btn {
     width: 100%;
   }
   h1 {
-    font-size: 44px;
+    font-size: 46px;
   }
   p {
     margin: 2em 0 4em 0;
@@ -142,7 +142,7 @@ button.btn, input.btn {
     margin: 0 auto;
     display: table;
     i {
-      padding-right: 0.5em;
+      padding-right: 0;
     }
   }
 }
