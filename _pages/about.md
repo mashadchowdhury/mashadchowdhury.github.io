@@ -32,7 +32,7 @@ Hi! Welcome to my page. My name is Mashad and I am a 3rd year **CS** & **Math** 
 
 **CRM (Customer Relationship Management) Software:** Salesforce
 
-**Certified in Google Ads Display, Search, and Video Certifications.**
+**Other:** Certified in Google Ads [Display](https://skillshop.exceedlms.com/student/award/6Q3F7Lm2HewvJmfT7npmZQ9m), [Search](https://skillshop.exceedlms.com/student/award/yV2iowVvStGa62SgBrEx6Qgk), and [Video](https://skillshop.exceedlms.com/student/award/t27QUMSnjBLh8vJeqVLYt5Vj) Certifications.
 
 ---
 ---
