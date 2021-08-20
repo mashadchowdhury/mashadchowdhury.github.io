@@ -38,6 +38,12 @@ Hi! Welcome to my page. My name is Mashad and I am a 3rd year **Computer Science
 
 ## Work Experience
 ---
+**Palletizing Machine Operator** at Jealous Fruits, Kelowna, BC
+
+07/2021 - 09/2021
+> - Hand packed all cherries onto pallets and ensured customer orders are carefully assembled and documented for worldwide deliveries. Physically demanding work in very cold environment of zero degrees Celsius, over 60 hours a week.
+
+
 **Digital Marketing Sales Intern** at MRKT360, Vaughan, ON
 
 05/2021 - 07/2021
