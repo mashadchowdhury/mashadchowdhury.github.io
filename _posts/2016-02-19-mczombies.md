@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'McZombies (game)'
 date: 2021-04-29 15:56:00
 categories: game development
