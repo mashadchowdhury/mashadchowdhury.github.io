@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Cape Town Takeover'
 date: 2021-04-30 21:30:00
 categories: data analytics
