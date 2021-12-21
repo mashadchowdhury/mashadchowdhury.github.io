@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'Website Design'
 date: 2021-04-15 15:56:00
 categories: web design
