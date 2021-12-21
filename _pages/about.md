@@ -89,7 +89,9 @@ administration to discuss important matters regarding the school.
 
 - I was awarded the prestigious High Achiever Award by Pearson in recognition of my outstanding grades during IGCSE examinations.
 
-**Qatar Secondary Schools Chess Championship (12th out of 117) and Newton Secondary Schools Championship (7th out of 63)**
+**Qatar Secondary Schools Chess Championship (12th out of 117)**
+
+**Newton Secondary Schools Championship (7th out of 63)**
 - I came 12th place at the Qatar Chess Championship, and was thus awarded a trophy and a chess board as an acknowledgement for my outstanding performance. The results can be viewed [here](https://chess-results.com/tnr222648.aspx?lan=1&art=0&fed=QAT). 
 - I was also came 7th at the Newton Secondary Schools Championship. The results for that competition can be viewed [here](https://chess-results.com/tnr220557.aspx?lan=1&art=1).
 
