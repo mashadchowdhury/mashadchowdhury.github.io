@@ -6,28 +6,26 @@ permalink: /about/
 
 ## About me
 
-Hi! Welcome to my page. My name is Mashad and I am a 3rd year **Computer Science** & **Mathematics** student studying at UBCO.
+Hi! Welcome to my page. My name is Mashad and I am a 3rd year Computer Science student studying at UBCO.
 
-**Careerwise**, I am currently looking for internships where I can apply my skills but learn new skills at the same time. I believe the best and most efficient way to learn and improve one's own skills is to have hands-on experience working at an internship, because after all, there is only so much we can learn from our courses at university.
+Careerwise, I am currently looking for internships where I can apply my skills but learn new skills at the same time. I believe the best and most efficient way to learn and improve one's own skills is to have hands-on experience working at an internship, because after all, there is only so much we can learn from our courses at university.
 
-**At the workplace,** I am an experienced individual with a demonstrated history of working in computer software and the healthcare industry. I am proficient in Python, Java, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams).
+At the workplace, I am an experienced individual with a demonstrated history of working in computer software and the healthcare industry. I am proficient in Python, Java, C++, R, MATLAB, and MIPS Assembly Language. I am also well-versed with Salesforce, Tableau, Git, and Microsoft Office products (Word, Excel, Teams).
 
----
-
-**On this page,** I will outline my technical skills, work experience, and some of my accomplishments. Any questions can be addressed to my UBC email on my Resume, or my personal email: mashad.n.chowdhury@gmail.com
+On this page, I will outline my technical skills, work experience, and some of my accomplishments. Any inquiries can be addressed to my UBC email on my Resume, or my personal email: mashad.n.chowdhury@gmail.com
 
 ---
 ---
 
 ## Technical Skills
 ---
-**Languages proficient in:** Python, Java, MATLAB, MIPS Assembly
+**Languages proficient in:** Python, Java, C++
 
-**Languages familiar with:** R, SQL
+**Other languages:** R, SQL, MATLAB, MIPS Assembly
 
 **Data Visualization Software:** Tableau
 
-**CRM (Customer Relationship Management) Software:** Salesforce
+**CRM Software:** Salesforce
 
 **Other:** Certified in Google Ads [Display](https://skillshop.exceedlms.com/student/award/6Q3F7Lm2HewvJmfT7npmZQ9m), [Search](https://skillshop.exceedlms.com/student/award/yV2iowVvStGa62SgBrEx6Qgk), and [Video](https://skillshop.exceedlms.com/student/award/t27QUMSnjBLh8vJeqVLYt5Vj) Certifications.
 
