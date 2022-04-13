@@ -12,5 +12,5 @@ button_text: 'Visit Project'
 project_link2: 'https://www.youtube.com/watch?v=7GGNG-GKtfY'
 button_icon2: 'youtube'
 button_text2: 'YouTube Link'
-lead_text: "Volume Control App with the HCI Technique Expanding Targets implmeneted into the program. The volume icons expand in size as the user's cursor moves towards the icons."
+lead_text: "Volume Control App with the HCI Technique Expanding Targets implemented into the program. The volume icons expand in size as the user's cursor moves towards the icons."
 ---
