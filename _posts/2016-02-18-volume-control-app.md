@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Volume Control App with Expanding Icons'
+title: 'Volume Control App w/ Expanding Icons'
 date: 2021-05-30 21:30:00
 categories: data analytics
 tags: JavaScript HTML
