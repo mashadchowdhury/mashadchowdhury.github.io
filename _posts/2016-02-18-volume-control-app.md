@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Volume Control App w/ Expanding Icons'
 date: 2021-05-30 21:30:00
 categories: data analytics
