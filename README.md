@@ -1,4 +1,4 @@
 ### Credits:
-[Jami](https://github.com/jamigibbs/phantom)
+Jami
 ### License
 MIT License
