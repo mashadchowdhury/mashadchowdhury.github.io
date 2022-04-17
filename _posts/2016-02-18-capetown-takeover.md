@@ -1,8 +1,8 @@
 ---
 layout: inner
 position: right
-title: 'Cape Town Takeover'
-date: 2021-04-30 21:30:00
+title: 'Data Analysis of Airbnb Listings in Cape Town'
+date: 2020-01-01 21:30:00
 categories: data analytics
 tags: Python Tableau SQL
 featured_image: 'img/posts/CapeTownAnalysis.JPG'
