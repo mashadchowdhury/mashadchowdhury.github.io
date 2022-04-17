@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Website Design'
+title: 'Web Development'
 date: 2018-01-01 15:56:00
 categories: web design
 tags: HTML CSS Jekyll Sass
