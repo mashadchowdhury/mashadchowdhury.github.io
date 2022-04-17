@@ -34,6 +34,7 @@ $secondary: #FF7B7B;
 
 body {
   background-color: #008b8b;
+  background-image: url("scene.jpg");
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
