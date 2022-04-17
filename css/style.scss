@@ -33,8 +33,7 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #008b8b;
-  background-image: url("scene.jpg");
+  background-color: #e19c41;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -87,7 +86,7 @@ button.btn, input.btn {
 }
 
 .main {
-  background-image: url("scene.jpg");
+  background-color: #001E35;
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {
