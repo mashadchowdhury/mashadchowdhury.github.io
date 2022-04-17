@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: right
-title: 'Data Analysis of Airbnb Listings in Cape Town'
+title: 'Airbnb Listings Analysis'
 date: 2020-01-01 21:30:00
 categories: data analytics
 tags: Python Tableau SQL
