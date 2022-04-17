@@ -136,6 +136,9 @@ button.btn, input.btn {
   h1 {
     font-size: 45px;
   }
+  h3 {
+    font-size: 20px;
+  }
   p {
     margin: 2em 0 4em 0;
   }
@@ -220,7 +223,6 @@ button.btn, input.btn {
 .section-title {
   position: relative;
   margin: 0 auto;
-  font-size: 20px;
   margin-bottom: 1em;
   &:after {
     content: '';
