@@ -49,7 +49,7 @@ article {
 
 p {
   line-height: 1.8;
-  font-size: 0.8em;
+  font-size: 1.3em;
 }
 
 a {
@@ -220,6 +220,7 @@ button.btn, input.btn {
 .section-title {
   position: relative;
   margin: 0 auto;
+  font-size: 20px;
   margin-bottom: 1em;
   &:after {
     content: '';
