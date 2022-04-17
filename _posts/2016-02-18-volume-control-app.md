@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Volume Control App w/ Expanding Icons'
-date: 2021-05-30 21:30:00
+date: 2021-01-01 21:30:00
 categories: data analytics
 tags: JavaScript HTML
 featured_image: 'img/posts/volumecontrol.png'
