@@ -6,15 +6,17 @@ permalink: /about/
 ## Technical Skills
 Java
 \
+Python
+\
 Javascript
 \
 CSS
 \
-Python
+HTML
 \
 C++
 \
-HTML
+SQL
 \
 Microsoft Office
 
