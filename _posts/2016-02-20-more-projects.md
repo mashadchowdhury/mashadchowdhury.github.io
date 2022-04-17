@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'More projects coming soon...'
-date: 2020-04-02 14:15:00
+date: 2016-01-01 14:15:00
 categories: development
 tags: 
 featured_image: 'img/posts/comingsoon.jpg'
