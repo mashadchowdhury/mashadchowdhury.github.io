@@ -2,8 +2,7 @@
 layout: inner
 title: About
 permalink: /about/
---
-
+---
 ## Technical Skills
 Java
 \
