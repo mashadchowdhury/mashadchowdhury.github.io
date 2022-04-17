@@ -16,7 +16,7 @@
 @import '../_sass/bootstrap';
 @import '../_sass/mixins';
 
-$primary: #0a0a0a;
+$primary: #ffffff;
 $secondary: #FF7B7B;
 
 %opensans { font-family: 'Open Sans', sans-serif; }
@@ -33,7 +33,7 @@ $secondary: #FF7B7B;
 }
 
 body {
-  background-color: #e19c41;
+  background-color: #ffffff;
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -65,12 +65,12 @@ button.btn, input.btn {
   margin: 2em 0.5em;
   border: solid 1px #d5e0e7;
   border-radius: 4px;
-  color: #ffffff;
+  color: #000000;
   font-weight: 600;
-  background-color: darkgoldenrod;
+  background-color: white;
   &:hover, &.btn-default:hover {
-    background-color: darkcyan;
-    color: #ffffff;
+    background-color: white;
+    color: #b8860b;
     border: solid 1px #b0c5d2;
     -moz-box-shadow: 0 1px 0 #b0c5d2;
     -webkit-box-shadow: 0 1px 0 #b0c5d2;
