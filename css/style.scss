@@ -17,7 +17,7 @@
 @import '../_sass/mixins';
 
 $primary: #ffffff;
-$secondary: #FF7B7B;
+$secondary: #ffffff;
 
 %opensans { font-family: 'Open Sans', sans-serif; }
 %merriweather { font-family: 'Merriweather', serif; }
@@ -55,7 +55,7 @@ p {
 a {
   @include transition(color .2s ease-in-out);
   &:hover {
-    color: #FF5B33;
+    color: #ffffff;
     text-decoration: none;
   }
 }
