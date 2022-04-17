@@ -6,7 +6,7 @@ permalink: /about/
 ## Technical Skills
 Java
 \
-Javascrript
+Javascript
 \
 CSS
 \
