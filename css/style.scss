@@ -49,7 +49,7 @@ article {
 
 p {
   line-height: 1.8;
-  font-size: 1.3em;
+  font-size: 0.8em;
 }
 
 a {
@@ -132,8 +132,9 @@ button.btn, input.btn {
   @include bp-xsmall {
     width: 100%;
   }
+	/*heading*/
   h1 {
-    font-size: 25px;
+    font-size: 45px;
   }
   p {
     margin: 2em 0 4em 0;
