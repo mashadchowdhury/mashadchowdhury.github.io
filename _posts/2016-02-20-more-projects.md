@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'More projects coming soon...'
 date: 2016-01-01 14:15:00
 categories: development
