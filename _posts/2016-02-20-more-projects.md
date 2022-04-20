@@ -5,7 +5,7 @@ title: 'More projects coming soon...'
 date: 2016-01-01 14:15:00
 categories: development
 tags: 
-featured_image: 'img/posts/comingsoon.jpg'
+featured_image: 'img/posts/comingsoon.png'
 project_link: 'https://mashadchowdhury.github.io/about/'
 button_icon: 'heart'
 button_text: 'About Me'
