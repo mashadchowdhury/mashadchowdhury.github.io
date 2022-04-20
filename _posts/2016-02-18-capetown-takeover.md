@@ -12,5 +12,5 @@ button_text: 'Visit Project'
 project_link2: 'https://www.youtube.com/watch?v=yCvuurHfHr0'
 button_icon2: 'youtube'
 button_text2: 'YouTube Link'
-lead_text: "Analysis of all Airbnb listings in Cape Town, South Africa using Tableau and Python"
+lead_text: "Analysis of 20,000 Airbnb listings in Cape Town, South Africa using Tableau and Python"
 ---
