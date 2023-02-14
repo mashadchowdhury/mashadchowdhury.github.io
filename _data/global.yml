@@ -1,7 +1,7 @@
 # Site Settings
 title: "Mashad Chowdhury"
 description: "Aspiring Software Engineer recently graduated from UBC Okanagan."
-url: 'https://mashadchowdhury.github.io/' # the base hostname & protocol for your site
+url: 'https://mashadchowdhury.github.io/' # the base hostname & protocol for my site
 nav: "true"
 footer_text: '© 2021 Mashad Chowdhury'
 twitter: ''
