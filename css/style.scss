@@ -33,7 +33,7 @@ $secondary: #ffffff;
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #ffffff;	//side bars background
   @extend %opensans;
   -webkit-font-smoothing: antialiased;
 }
@@ -86,7 +86,7 @@ button.btn, input.btn {
 }
 
 .main {
-  background-color: #001E35;
+  background-color: #E3E2DF;	//main background
   color: #ffffff;
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
