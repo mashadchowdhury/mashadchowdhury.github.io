@@ -18,17 +18,25 @@ Java
 \
 Python
 \
-Javascript
+C
+\
+JavaScript
+\
+PHP
 \
 CSS
 \
-HTML
+Laravel
 \
-C++
+HTML
 \
 SQL
 \
-Microsoft Office
+Tableau
+\
+MATLAB
+\
+R
 
 ---
 
