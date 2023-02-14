@@ -70,7 +70,7 @@ button.btn, input.btn {
   background-color: white;
   &:hover, &.btn-default:hover {
     background-color: white;
-    color: #b8860b;
+    color: #b8860b;	//button hover colour
     border: solid 1px #b0c5d2;
     -moz-box-shadow: 0 1px 0 #b0c5d2;
     -webkit-box-shadow: 0 1px 0 #b0c5d2;
@@ -87,7 +87,7 @@ button.btn, input.btn {
 
 .main {
   background-color: #E3E2DF;	//main background
-  color: #ffffff;
+  color: #000000;
   border-left: solid 1px #cedfea;
   border-right: solid 1px #cedfea;
   &.container {
