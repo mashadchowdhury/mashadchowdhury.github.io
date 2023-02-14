@@ -10,5 +10,6 @@ project_link: 'https://github.com/mashadchowdhury/GEMS-B'
 button_icon: 'flask'
 button_text: 'Visit Project'
 project_link2: ''
-lead_text: "A simple and friendly chat-bot with which the user can talk about their hobbies and interests. The chatbot also implements two APIs: (1) Google Translate API, using which the chatbot is able to translate in real time any inputted sentence by the user into French, and (2) the Wikipedia API, which allows the chatbot to extract information from Wikipedia about a famous person or celebrity and then display the extracted information to the user."
+lead_text: 'Used PHP and Laravel to develop a digital platform for a local startup, Glohaven's Emergency Management Solutions (GEMS). GEMS is a software that makes it easier for disaster response personnel to manage information and resources during an emergency, such as wildfires or floods. Focused both on front-end and back-end development. Took on the role of Client Liaison and coordinated weekly meetings with clients discussing progress.'
+---
 ---
