@@ -5,7 +5,7 @@ title: 'Emergency Management Software'
 date: 2023-01-01 21:30:00
 categories: Software Engineering
 tags: PHP Laravel
-featured_image: 'img/posts/chatbot.png'
+featured_image: 'img/posts/gems.png'
 project_link: 'https://github.com/mashadchowdhury/GEMS-B'
 button_icon: 'flask'
 button_text: 'Visit Project'
