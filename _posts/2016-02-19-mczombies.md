@@ -1,16 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'McZombies (game)'
-date: 2017-01-01 15:56:00
-categories: game development
-tags: RobloxStudio Lua GameDev
+title: 'Emergency Management Software'
+date: 2023-01-01 15:56:00
+categories: Software Development
+tags: RobloxStudio PHP Laravel
 featured_image: 'img/posts/mczombies-gameplay.JPG'
-project_link: 'https://www.roblox.com/games/6749610863/McZombies-The-Zombies-of-McDonalds'
-button_text: 'Visit Game'
-button_icon: 'gamepad'
-project_link2: 'https://www.youtube.com/watch?v=Ky9EufhJuhg'
-button_text2: 'YouTube Link'
-button_icon2: 'youtube'
-lead_text: 'Developed and designed a game using Roblox Studio and the programming language Lua'
+project_link: 'https://github.com/mashadchowdhury/GEMS-B'
+button_text: 'Visit Project'
+button_icon: 'flask'
+lead_text: 'Used PHP and Laravel to develop a digital platform for a local startup, Glohaven's Emergency Management Solutions (GEMS). GEMS is a software that makes it easier for disaster response personnel to manage information and resources during an emergency, such as wildfires or floods. Focused both on front-end and back-end development. Took on the role of Client Liaison and coordinated weekly meetings with clients discussing progress.'
 ---
