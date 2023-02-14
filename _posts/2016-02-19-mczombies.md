@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Emergency Management Software'
 date: 2023-01-01 21:30:00
 categories: Software Engineering
