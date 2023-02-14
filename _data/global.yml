@@ -1,6 +1,6 @@
 # Site Settings
 title: "Mashad Chowdhury"
-description: "Aspiring Software Engineer, 3rd year Computer Science student studying at UBC Okanagan."
+description: "New graduate Computer Science student from UBC Okanagan."
 url: 'https://mashadchowdhury.github.io/' # the base hostname & protocol for your site
 nav: "true"
 footer_text: '© 2021 Mashad Chowdhury'
@@ -14,4 +14,4 @@ youtube: ''
 # Admin Settings
 admin_name: 'Mashad Chowdhury'
 admin_email: 'mashad.chowdhury@alumni.ubc.ca'
-google_analytics: "G-E47X1MPPDV" # Update with your own tracking ID
+google_analytics: "G-E47X1MPPDV"
